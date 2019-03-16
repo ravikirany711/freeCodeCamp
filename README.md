@@ -18,7 +18,7 @@ Our full-stack web development curriculum is completely free and self-paced. We 
 * [Found a Bug](#found-a-bug)
 * [Found a Security Issue](#found-a-security-issue)
 * [Contributing](#contributing)
-* [License](#license)
+* [License](#license).
 
 
 ### Certifications
@@ -142,6 +142,7 @@ Please don't create GitHub issues for security issues. Instead, please send an e
 #### [Please follow these steps to contribute.](CONTRIBUTING.md)
 
 ### License
+Thank you for reading .
 
 Copyright © 2019 freeCodeCamp.org
 
